@@ -22,6 +22,4 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 4. run pod install
 5. ✨Run  Emulater
 
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png" width="30%" height="30%">
-
-![test image size](https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png){:height="30%" width="30%"}
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png" width="30%" height="30%"> | <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/backend-product-list.png" width="30%" height="30%"> |  <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/product-form.png" width="30%" height="30%">
