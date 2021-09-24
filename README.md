@@ -6,7 +6,7 @@ MVVM-and-Design-Pattern show both MVVM patern and how to structure files as well
 
  
 
-### Good to know about MVVM pattern architecture
+# MVVM pattern architecture
 Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups:
 ##### 1. Model
 The Model represents simple data. It simply holds the data and has nothing to do with any of the business logic. You can simply say it’s a plain structure of data that we are expecting from our API.
@@ -16,7 +16,7 @@ To receive data from ViewModel class we have link our ViewModel property inside 
 #### 3. ViewModel
 ViewModel is the main component of this architecture pattern. ViewModel never knows what the view is or what the view does. This makes this architecture more testable and removes complexity from the view. 
 
-#### How to install
+# How to install
 1. Download project to your Mac
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/github-repo.png" width="50%" height="50%">
 3. Setup firebase
@@ -40,7 +40,7 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/folder-structure.png?raw=true" width="20%" height="20%">
 
 
-### Check these files
+# Check these files
 
 #####   Pods for MVVM-and-Design-Pattern
 Run `open podfile`, Only check what pods we use in the project.
