@@ -19,20 +19,17 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 # How to install
 1. Download project to your Mac
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/github-repo.png" width="50%" height="50%">
-3. Setup firebase
-```sh
- https://firebase.google.com/docs/ios/setup
-```
-5. Delete "GoogleService-Info.plist" in App/ and import your own GoogleService-Info.plist
+2. Setup firebase `https://firebase.google.com/docs/ios/setup`
+3. Delete "GoogleService-Info.plist" in App/ and import your own GoogleService-Info.plist
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/googleService-Info.png" width="50%" height="50%">
-5. run pod install in Terminal
+4. run pod install in Terminal
 ```sh
  run pod install
 ```
-6. Close project and open again 
+5. Close project and open again 
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/project-folders-in-finder.png" width="50%" height="50%">
 
-7. ✨Well done, now you will be able to see the CMS screen.
+6. ✨Well done, now you will be able to see the CMS screen.
 
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png" width="20%" height="20%"> | <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/backend-product-list.png" width="20%" height="20%"> |  <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/product-form.png" width="20%" height="20%">
 
