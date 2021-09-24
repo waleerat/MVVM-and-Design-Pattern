@@ -4,6 +4,7 @@
 ### MVVM-and-Design-Pattern Project
 MVVM-and-Design-Pattern show both MVVM patern and how to structure files as well as full flow of CMS and fronend for products which you can use is project to start your project. 
 
+<video src='https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/short-video.mov' width=480/>
 
 ### Good to know about MVVM pattern architecture
 Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups:
@@ -17,16 +18,19 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 
 #### How to install
 1. Download project to your Mac
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/github-repo.png" width="20%" height="20%">
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/github-repo.png" width="50%" height="50%">
 3. Setup firebase
-4. Delete "GoogleService-Info.plist" in App/ and import your own GoogleService-Info.plist
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/googleService-Info.png" width="20%" height="20%">
+```sh
+ https://firebase.google.com/docs/ios/setup
+```
+5. Delete "GoogleService-Info.plist" in App/ and import your own GoogleService-Info.plist
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/googleService-Info.png" width="50%" height="50%">
 5. run pod install in Terminal
 ```sh
  run pod install
 ```
 6. Close project and open again 
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/project-folders-in-finder.png" width="20%" height="20%">
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/project-folders-in-finder.png" width="50%" height="50%">
 
 7. ✨Well done, now you will be able to see the CMS screen.
 
