@@ -22,3 +22,5 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 4. run pod install
 5. ✨Run  Emulater
 
+
+![](https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png)
