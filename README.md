@@ -36,7 +36,7 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png" width="20%" height="20%"> | <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/backend-product-list.png" width="20%" height="20%"> |  <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/product-form.png" width="20%" height="20%">
 
-### Folder Structure
+# Folder Structure
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/folder-structure.png?raw=true" width="20%" height="20%">
 
 
