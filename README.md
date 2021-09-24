@@ -23,4 +23,5 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 5. ✨Run  Emulater
 
 
-![](https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png)
+
+![test image size](https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/Home-screen.png){:height="30%" width="30%"}
