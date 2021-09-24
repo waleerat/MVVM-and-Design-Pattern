@@ -40,7 +40,7 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
  
 # Check these files
 
-#####   Pods for MVVM-and-Design-Pattern
+####   Pods for MVVM-and-Design-Pattern
 Run `open podfile`, Only check what pods we use in the project.
 ```sh
  open podfile
@@ -55,7 +55,7 @@ Run `open podfile`, Only check what pods we use in the project.
   pod 'Kingfisher', '~> 6.0'
 ```
 
-##### MVVM_and_Design_PatternApp.swift
+#### MVVM_and_Design_PatternApp.swift
 if you want to separate to difference Firebase for development and production so you can use this code otherwise you can just use `FirebaseApp.configure()`
 ```sh
     private func setupFirebaseApp() {
@@ -91,8 +91,7 @@ Example for Config 2 difference Firebase.
 ```
 
 
-
-##### Constants.swift
+#### Constants.swift
 The constants values that I use in the project.
 
 ```sh
@@ -105,7 +104,7 @@ public let kScreenBackground: String = "background"
 let KCategories = ["ALL","MAN","WOMAN", "KIDS"] 
 ```
 
-##### FCollectionReference.swift
+#### FCollectionReference.swift
 Collections for firebase 
 
 ```sh
@@ -126,7 +125,7 @@ How to use :
 FirebaseReference(.Product).document(objectId).delete() { error in }
 ```
 
-##### ProductModel.swift  (Model)
+#### ProductModel.swift  (Model)
 ```sh
 
 struct ProductModel: Identifiable {
@@ -139,7 +138,7 @@ struct ProductModel: Identifiable {
 }
 ```
 
-##### ProductModel.swift  (View)
+#### ProductModel.swift  (View)
 Example for View, program will receive data from ViewModel and present to the screen.
 
 ```sh
@@ -179,7 +178,7 @@ struct ProductFormView: View {
 
 
 ```
-##### ProductVM.swift (ViewModel)
+#### ProductVM.swift (ViewModel)
   All insert/update/delete processes.
 ```sh
 class ProductVM: ObservableObject {
@@ -277,7 +276,7 @@ class ProductVM: ObservableObject {
 }
 
 ```
-##### ButtonIconAction.swift
+#### ButtonIconAction.swift
 If you have same design buttons in your app it's good to use shared button action view. 
 ```sh
 struct ButtonWithCircleIconAction: View {
@@ -304,7 +303,7 @@ ButtonWithCircleIconAction(systemName: "magnifyingglass", action: {
  })
 ```
 
-##### CommonModifier.swift
+#### CommonModifier.swift
 It's useful for style objects. it's similar to CSS for website.
 
 ```sh
