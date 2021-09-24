@@ -38,8 +38,7 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 
 # Folder Structure
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/folder-structure.png?raw=true" width="20%" height="20%">
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/folder-structure.png?raw=true" width="20%" height="20%">
-
+ 
 # Check these files
 
 #####   Pods for MVVM-and-Design-Pattern
