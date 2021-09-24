@@ -12,7 +12,7 @@ The Model represents simple data. It simply holds the data and has nothing to do
 ##### 2. View
 To receive data from ViewModel class we have link our ViewModel property inside the view controller class
 
-### 3. ViewModel
+#### 3. ViewModel
 ViewModel is the main component of this architecture pattern. ViewModel never knows what the view is or what the view does. This makes this architecture more testable and removes complexity from the view. 
 
 #### How to install
