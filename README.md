@@ -4,7 +4,7 @@
 ### MVVM-and-Design-Pattern Project
 MVVM-and-Design-Pattern show both MVVM patern and how to structure files as well as full flow of CMS and fronend for products which you can use is project to start your project. 
 
-<video src='https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/short-video.mov' width=480/>
+ 
 
 ### Good to know about MVVM pattern architecture
 Model-View-ViewModel (MVVM) is a structural design pattern that separates objects into three distinct groups:
