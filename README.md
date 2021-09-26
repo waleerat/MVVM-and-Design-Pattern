@@ -24,7 +24,7 @@ ViewModel is the main component of this architecture pattern. ViewModel never kn
 2. Setup firebase `https://firebase.google.com/docs/ios/setup`
 
 3. Delete "GoogleService-Info.plist" in App/ and import your own GoogleService-Info.plist
-<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/googleService-Info.png" width="50%" height="50%">
+<img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/googleService-Info.png" width="80%" height="80%">
 4. run pod install in Terminal
 ```sh
  run pod install
