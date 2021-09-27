@@ -322,9 +322,8 @@ struct ImageFullScreenModifier: ViewModifier {
 
 
 #### If you can't run project
-`
-The project at ‘/Users/lia/Documents/MVVM-and-Design-Pattern/MVVM-and-Design-Pattern.xcodeproj’ cannot be opened because it is in a future Xcode project file format. Adjust the project format using a compatible version of Xcode to allow it to be opened by this version of Xcode.
 
-`
+`The project at ‘/Users/lia/Documents/MVVM-and-Design-Pattern/MVVM-and-Design-Pattern.xcodeproj’ cannot be opened because it is in a future Xcode project file format. Adjust the project format using a compatible version of Xcode to allow it to be opened by this version of Xcode.`
+ 
 
 
