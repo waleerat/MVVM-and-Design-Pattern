@@ -18,7 +18,7 @@ To receive data from ViewModel class we have link our ViewModel property inside 
 ViewModel is the main component of this architecture pattern. ViewModel never knows what the view is or what the view does. This makes this architecture more testable and removes complexity from the view. 
 
 # How to install
-1. Download project to your Mac
+1. Clone project to your Mac
 <img src="https://github.com/waleerat/GitHub-Photos-Shared/blob/main/MVVM-and-Design-Pattern/github-repo.png" width="50%" height="50%">
 
 2. Setup firebase `https://firebase.google.com/docs/ios/setup`
