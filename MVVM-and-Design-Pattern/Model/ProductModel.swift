@@ -1,5 +1,5 @@
 //
-//  Gallery.swift
+//  ProductModel.swift
 //  SwiftUI-MVVM-and-Design-Pattern
 //
 //  Created by Waleerat Gottlieb on 2021-09-23.

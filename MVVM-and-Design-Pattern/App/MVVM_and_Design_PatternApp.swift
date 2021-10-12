@@ -21,9 +21,10 @@ struct MVVM_and_Design_PatternApp: App {
     
    
     private func setupFirebaseApp() {
+        let kGoogleServiceInfoFileName = "GoogleService-Info"
         
        guard let plistPath = Bundle.main.path(
-        forResource: "GoogleService-Info", ofType: "plist"),
+        forResource: kGoogleServiceInfoFileName, ofType: "plist"),
              let options =  FirebaseOptions(contentsOfFile: plistPath)
                       else { return }
         

@@ -107,7 +107,6 @@
 				ABBB8E1226FC854E0089C90C /* ViewModel */,
 				ABBB8E0E26FC84DF0089C90C /* View */,
 				ABBB8E3626FC8B210089C90C /* HelperView */,
-				ABBB8E2C26FC864F0089C90C /* LandingPage.swift */,
 				ABBB8E1326FC85580089C90C /* Utility */,
 				AB9868E826FC8127004C4A00 /* Preview Content */,
 			);
@@ -127,6 +126,7 @@
 			children = (
 				ABBB8E2226FC86100089C90C /* Backend */,
 				ABBB8E2126FC86080089C90C /* Frontend */,
+				ABBB8E2C26FC864F0089C90C /* LandingPage.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";

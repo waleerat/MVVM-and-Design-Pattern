@@ -114,8 +114,7 @@ struct ProductFormView: View {
     
     // MARK: - HELPER FUNCTIONS
     func saveToFirebase(objectId: String){
-        // Note: - Save to Firebase
-       print(" >> \(price)")
+        // Note: - Save to Firebase 
         let modelData = ProductModel(id: objectId,
                                      name: name,
                                      imageURL: imageURL,
